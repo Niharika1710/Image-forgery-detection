@@ -1,4 +1,4 @@
-# 🧠 Comprehensive Detection of Image Manipulations using Deep Learning
+#  Comprehensive Detection of Image Manipulations using Deep Learning
 
 This repository presents a deep learning-based system to **detect and classify image manipulations**, including:
 
@@ -14,7 +14,7 @@ We use a **hybrid architecture** involving CNNs, VGG16, GANs, and Vision Transfo
 
 ---
 
-## 📊 Datasets Used
+##  Datasets Used
 
 - **CASIA v1.0 & v2.0** – Splicing
 - **CoMoFoD** – Copy-Move
@@ -23,7 +23,7 @@ We use a **hybrid architecture** involving CNNs, VGG16, GANs, and Vision Transfo
 
 ---
 
-## 🧠 Models Used
+## Models Used
 
 | Task          | Architecture             |
 |---------------|---------------------------|
@@ -34,7 +34,7 @@ We use a **hybrid architecture** involving CNNs, VGG16, GANs, and Vision Transfo
 
 ---
 
-## 🛠️ Setup
+## Setup
 
 ```bash
 git clone https://github.com/yourusername/image-manipulation-detection.git
